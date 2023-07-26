@@ -1,1 +1,3 @@
-print("hello word!!")
+a=input("your name : ")
+
+print("hello "+a+ "!!!")
